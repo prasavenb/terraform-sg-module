@@ -1,4 +1,4 @@
-# Terraform AWS VPC Module Customised
+# Terraform AWS SG Module Customised
 # Inputs
 * project_name (Mandatory): User must supply their project name.
 * environment (Mandatory): User must supply their environment name.
